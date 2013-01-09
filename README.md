@@ -1,0 +1,4 @@
+cordovaexample
+==============
+
+Cordova Example App
